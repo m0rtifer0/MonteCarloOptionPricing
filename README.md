@@ -70,6 +70,5 @@ MonteCarloOptionPricing/
    ```bash
    git clone https://github.com/m0rtifer0/MonteCarloOptionPricing
    cd MonteCarloOptionPricing
-   pip install -r requirements.txt
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

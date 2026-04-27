@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scipy
+streamlit
+yfinance
+numba
+joblib
+plotly
+jax
